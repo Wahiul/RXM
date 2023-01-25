@@ -1,0 +1,210 @@
+@media(min-width: 1799.98px){
+    .banner_content{
+        min-height: 55vh;
+    }
+}
+@media(min-width: 2999.98px){
+    .banner_content{
+        min-height: 40vh;
+    }
+}
+@media(max-width: 1200px){
+    .banner_content{
+        min-height: 60vh;
+    }
+    .banner_section h1{
+        font-size: 50px;
+    }
+    .banner_section p{
+        font-size: 19px;
+    }
+    footer h3{
+        font-size: 24px;
+    }
+}
+@media(max-width: 991.98px){
+    .top_header img{
+        width: 60%;
+    }
+    .banner_section h1{
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .banner_section p{
+        font-size: 14px;
+    }
+    .banner_content{
+        min-height: 45vh;
+    }
+    .about_us p{
+        font-size: 14px;
+        padding-right: 0;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-bottom: 7px;
+        font-size: 16px;
+    }
+    .btn_enquire{
+        font-size: 16px;
+        padding: 6px 18px;
+        margin-top: 6px;
+    }
+    .icon_part h3{
+        margin-left: 17px;
+        font-size: 16px;
+    }
+    .service_section p{
+        font-size: 14px;
+        padding-right: 20px;
+    }
+    .email_part h3{
+        margin-bottom: 25px;
+        line-height: 27px;
+        font-size: 17px;
+    }
+    .email_part P{
+        font-size: 14px;
+    }
+    .form_section label{
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    .form_section input[type="submit"]{
+        margin-top: 30px;
+    }
+    .email_part P{
+        font-size: 14px;
+    }
+    .about_us h2{
+        font-size: 20px;
+    }
+    .about_us h1{
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .icon_part img{
+        width: 15%;
+    }
+    footer h3, .footer_section h2{
+        font-size: 20px;
+    }
+    .footer_section ul li a{
+        font-size: 14px;
+    }
+    .copyright h6{
+        font-size: 12px;
+        padding: 40px 0 25px 0;
+    }
+    .navbar-light .navbar-nav{
+        margin-top: 10px;
+    }
+}
+@media(max-width: 902.98px){
+    .btn_enquire, .form_section input[type="submit"]{
+        font-size: 14px;
+    }
+    .our_services{
+        padding-bottom: 30px;
+    }
+    .clients{
+        padding-top: 0;
+    }
+}
+@media(max-width: 767.98px){
+    .top_header img{
+        width: 55%;
+    }
+    .banner_section h1{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .banner_section p{
+        margin-top: 5px;
+    }
+    .banner_mobile{
+        width: 50%;
+        margin: 40px auto;
+    }
+    .about_img{
+        padding-bottom: 200px;
+        margin-bottom: 20px;
+    }
+    .icon_part img{
+        width: 9%;
+    }
+    .book{
+        margin-bottom: 35px;
+    }
+    .email_section{
+        padding: 100px 0;
+    }
+    .form_section, .clients_img{
+        margin-top: 45px;
+    }
+    .clients_img{
+        width: 40%;
+        padding-bottom: 40px;
+    }
+    footer h3{
+        margin-top: 65px;
+    }
+    footer{
+        padding-top: 0px;
+    }
+}
+@media(max-width: 575.98px){
+    .clients_img{
+        margin-top: 30px;
+    }
+    .footer_section{
+        padding: 20px;
+    }
+    footer h3{
+        margin-top: 45px;
+    }
+    .service h2, .service p{
+        padding: 0 10px;
+    }
+    .more{
+        margin: 10px;
+    }
+}
+@media(max-width: 390.98px){
+    .navbar-brand{
+        margin-right: 0;
+    }
+    .about_us{
+        padding: 57px 0 40px 0;
+    }
+    .core_value{
+        margin-top: 70px;
+    }
+    .book{
+        margin-top: 0px;
+    }    
+    .email_section{
+        padding: 70px 0;
+    }
+    .clients_img{
+        margin-top: 10px;
+        width: 50%;
+        margin: auto;
+    }
+    .our_services{
+        padding-bottom: 15px;
+    }
+    .clients_mobile{
+        text-align: center;
+    }
+}
+@media(max-width: 374.98px){
+    .navbar-light .navbar-brand{
+        display: contents;
+    }
+    .banner_section h6{
+        font-size: 12px;
+    }
+    .top_header{
+        padding: 20px 0;
+    }
+}
